@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related webhook ApIs"
+  message: "Welcome to Bank cards related prod ApIs"
   contactDetails:
     name: "Reine Lee - Product Owner"
     email: "Lee@example.com"
